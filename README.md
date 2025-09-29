@@ -16,7 +16,7 @@ Never test these techniques on systems you do not own or have explicit permissio
 
 ## 🙋‍♂️ About Me
 
-Hi, I’m Oláh Imre!  
+Hi, I’m Ziliel!  
 I’m currently preparing for the OSCP, passionate about red teaming, and always down to share knowledge and contribute to the community.
 
 **Happy hacking!**
